@@ -26,5 +26,5 @@ My six month journey preparing for Electrical Engineering at Texas A&M Universit
  - Develop software
  - Test and document
 
-##Progress
+## Progress
 This repository documents my learning process and projects.

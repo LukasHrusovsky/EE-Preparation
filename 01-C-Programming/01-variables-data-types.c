@@ -2,10 +2,10 @@
 
 int main() {
 
-    int intNumber = 67;
-    double doubleNumber = 67.0;
-    float floatNumber = 67.0f; // Use 'f' suffix to indicate a float
-    double expNumber = 6.7e5; // Storing exponential number in a double variable
+    int intNumber = 50;
+    double doubleNumber = 50.0;
+    float floatNumber = 50.0f; // Use 'f' suffix to indicate a float
+    double expNumber = 5.0e5; // Storing exponential number in a double variable
     char character = 'c';
 
     printf("Int Number:%d\n", intNumber);
