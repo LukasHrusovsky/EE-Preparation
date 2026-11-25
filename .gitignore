@@ -1,0 +1,32 @@
+
+# Compiled executables
+*.exe
+*.out
+
+# Visual Studio compiled files
+*.obj
+*.ilk
+*.pdb
+*.pch
+*.idb
+*.ipch
+*.tlog
+*.lastbuildstate
+
+# Debug and build folders
+Debug/
+Release/
+x64/
+x86/
+build/
+
+# Visual Studio user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.tmp
+*.log
+*.bak
