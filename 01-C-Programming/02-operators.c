@@ -27,6 +27,5 @@ int main() {
     int result = (a - b) * (a + c);
     printf("Result: %d\n", result);
 
-
     return 0;
 }
