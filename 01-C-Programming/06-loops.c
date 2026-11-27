@@ -27,7 +27,7 @@ int main() {
     // ondition is checked AFTER the first iteration
     do {
         printf("This still runs once even though the condiion is false");
-    } while (1 > 2);
+    } while (0);
 
     return 0;
 }
