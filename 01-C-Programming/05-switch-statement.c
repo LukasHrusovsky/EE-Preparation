@@ -28,7 +28,7 @@ int main() {
         break;
 
         case '/':
-        result = num1 / num2;
+        result = (double)num1 / num2;
         break;
 
         case '*':
